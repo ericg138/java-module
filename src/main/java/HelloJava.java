@@ -12,7 +12,8 @@ public class HelloJava {
 
     String unused1 = "unused1";
     String unused2 = "unused2";
-    String unused3 = "unused3";
+
+    String unused8 = "unused8";
   }
 
   private static ThreadLocalRandom random() {
