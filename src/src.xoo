@@ -1,0 +1,3 @@
+line with issue 1
+line with issue 2
+line with issue 3 //sonar-resolve xoo:OneIssuePerLine comment
